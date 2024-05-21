@@ -75,6 +75,7 @@ To run this application locally, follow these steps:
 
 ## Preview / Screenshot
 ![alt text](<Employee Tracker.gif>)
+<video controls src="Employee-Tracker.mp4" title="Title"></video>
 
 ## Contact
 For more projects and information about the developer, please visit:

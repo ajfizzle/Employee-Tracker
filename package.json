@@ -1,5 +1,5 @@
 {
-  "name": "employee-tracker",
+  "name": "employee_tracker",
   "version": "1.0.0",
   "description": "Module 12 Challenge",
   "main": "server.js",
